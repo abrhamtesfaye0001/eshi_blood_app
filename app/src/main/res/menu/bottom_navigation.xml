@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/bottom_navigation_home"
+    android:icon="@drawable/ic_baseline_home_24"
+    android:title="@string/home"/>
+<item android:id="@+id/bottom_navigation_appointment"
+    android:icon="@drawable/ic_baseline_calendar_today_24"
+    android:title="@string/appointment"/>
+<item android:id="@+id/bottom_navigation_donor_card"
+    android:icon="@drawable/ic_baseline_credit_card_24"
+    android:title="@string/donor_card"/>
+<item android:id="@+id/bottom_navigation_about_donation"
+    android:icon="@drawable/ic_baseline_info_24"
+    android:title="About Donation"/>
+</menu>
